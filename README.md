@@ -16,3 +16,6 @@ ClearBeach 提供為淨灘資訊分享平台，提供海岸、沙灘現狀資訊
 * [PostgreSQL](https://www.postgresql.org)
 * [PostGIS](https://github.com/postgis/postgis)
 * [Django REST framework](https://github.com/encode/django-rest-framework/tree/master)
+
+# 共筆 
+[HackMD](https://hackmd.io/0aUjRAh-S16ZG0VroHgqFw)
